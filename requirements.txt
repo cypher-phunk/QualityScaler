@@ -1,0 +1,13 @@
+#AI
+onnxruntime-directml==1.24.4
+numpy
+
+#GUI
+customtkinter
+
+#UTILS
+opencv-python-headless
+Pillow
+natsort
+psutil
+pyinstaller==6.19.0
